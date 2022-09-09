@@ -1,9 +1,9 @@
-# Maryn Sudnik
+# Maryna Sudnik
 *tel.:* **506 827 611**\
 *e-mail:* **marina.marisha.s.a@gmail.com**\
 *GitHub:* [Marina-SB](https://github.com/Marina-SB/)\
 *Discord* **Maryna#8160**\
-! [](./img/photo-profil.jpg)\
+![](./img/photo-profil.jpg)\
 ## SKILLS
 * HTML, CSS3, website layout
 * block, cross-browser, adaptive layout for mobile devices, code semantics, validity, CSS preprocessor SCSS. Optimization of grahpics and download speed
