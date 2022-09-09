@@ -21,7 +21,7 @@ Created a multi-page site. Feedback form included. Made adaptation of the projec
 *Completiion time:* **30 days**\
 *Number of pages:* **43**\
 [Yasli-sad 3 Grodno](https://ys3grodno.by/)
-## LANGUAGS
+## LANGUAGES
 Russian - native\
 Polish - A2\
 English - A1
